@@ -1,0 +1,59 @@
+.title-label > h2 {
+  display: none;
+}
+
+.editor-actions {
+  display: none;
+}
+
+.nosidebar .inline-tabs-placeholder {
+  width: 75px;
+}
+
+.pane-header {
+  padding: 0 8px;
+}
+
+.pane-body {
+  padding: 8px;
+}
+
+.split-view-view:first-child .pane-header {
+  display: none !important;
+}
+
+.monaco-list-row {
+  border-radius: 4px;
+  font-size: 12px !important;
+}
+
+.monaco-icon-name-container .label-name {
+  font-size: 12px !important;
+}
+
+.monaco-workbench .monaco-list:not(.element-focused):focus:before {
+  display: none;
+}
+
+.monaco-grid-branch-node,
+.monaco-grid-view,
+.quick-input-widget,
+.monaco-workbench > .notifications-toasts,
+.monaco-workbench > *,
+.notifications-toasts {
+  font-family: "REM" !important;
+}
+
+.windows {
+  --monaco-monospace-font: "REM";
+  font-family: "REM" !important;
+}
+
+.windows > * {
+  font-family: "REM" !important;
+}
+
+.monaco-workbench .part > .header-or-footer,
+.monaco-workbench .part > .title {
+  height: 25px;
+}
