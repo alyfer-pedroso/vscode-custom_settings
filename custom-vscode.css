@@ -57,3 +57,7 @@
 .monaco-workbench .part > .title {
   height: 25px;
 }
+
+.workbench.parts.sidebar {
+  height: 100%;
+}
