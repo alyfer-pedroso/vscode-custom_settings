@@ -58,6 +58,6 @@
   height: 25px;
 }
 
-.workbench.parts.sidebar {
-  height: 100%;
+.monaco-workbench .sidebar {
+  height: 100% !important;
 }
