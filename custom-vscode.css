@@ -24,11 +24,11 @@
 
 .monaco-list-row {
   border-radius: 4px;
-  font-size: 12px !important;
+  font-size: 13px !important;
 }
 
 .monaco-icon-name-container .label-name {
-  font-size: 12px !important;
+  font-size: 13px !important;
 }
 
 .monaco-workbench .monaco-list:not(.element-focused):focus:before {
@@ -61,3 +61,4 @@
 .monaco-workbench .sidebar {
   height: 100% !important;
 }
+
